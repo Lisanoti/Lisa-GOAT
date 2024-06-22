@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "davidraj404@gmail.com",
-    "password": "DAVID-RAJ@@@",
+    "email": "mdnisofficial@gmail.com",
+    "password": "Munna123@1",
     "2FASecret": "12962259",
     "i_user": "",
     "proxy": null,
@@ -37,12 +37,12 @@
   "authorName": "ᴅᴀᴠɪᴅ ʀᴀᴊ",
   "authorFB": "https://www.facebook.com/raj.vai.404",
   "vipUser": [
-    "100085082042087",
+    "61556196058001",
     "",
     ""
   ],
   "adminBot": [
-    "100085082042087",
+    "61556196058001",
     "",
     "",
     "",
@@ -51,20 +51,20 @@
     ""
   ],
   "GOD": [
-    "100085082042087",
+    "61556196058001",
     ""
   ],
   "DEV": [
-    "100085082042087",
+    "61556196058001",
     ""
   ],
   "whiteListMode": {
-    "enable": false,
-    "whiteListIds": [],
+    "enable": true,
+    "whiteListIds": [61556196058001],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "ᴅᴀᴠɪᴅ ʀᴀᴊ",
-  "prefix": "!",
+  "nickNameBot": "LISA B O T",
+  "prefix": "-",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
