@@ -8,11 +8,11 @@
 
 
 <p align="center">
-<img src="https://i.ibb.co/VTstrSy/Animation.gif" width="400px" />
+<img src="https://i.imgur.com/kNdI7r5.mp4"400px" />
 <div align="center">
-      <om/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: green;">https://www.facebook.com/profile.php?id=61560375460072</a></h3></div>
+      <om/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: green;">https://www.facebook.com/profile.php?id=61556196058001</a></h3></div>
 <p align="center">
-<img src="https://i.imgur.com/wUSfxc2.jpeg"/>
+<img src="https://i.imgur.com/DxN7Rbn.jpeg"/>
 <h1 align="center">
 My Facebook account
 </h1>
@@ -21,7 +21,7 @@ My Facebook account
 
 ## 🔴🟡🟢
 ## *━❮CREDITS TO❯━𒁍● 『NISAN』*
-![SjcKH.gif](https://s13.gifyu.com/images/SjcKH.gif)
+![SjcKH.gif]([https://s13.gifyu.com/images/SjcKH.gif](https://i.imgur.com/kNdI7r5.mp4))
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
 <br><br>
