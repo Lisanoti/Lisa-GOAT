@@ -1,9 +1,9 @@
-<img src="https://i.imgur.com/hUYmHkr.jpeg" alt="banner">
+<img src="https://i.imgur.com/DxN7Rbn.jpeg" alt="banner">
 
 
 
 
-## **🌺HELLO THIS DAVID RAJ BOT🌺 
+## **🌺HELLO THIS LISA BOT🌺 
 
 
 
@@ -17,10 +17,10 @@
 My Facebook account
 </h1>
 <p align="center">
-  <a href="https://www.facebook.com/profile.php?id=61560375460072" target="_blank" rel="CliffVincent"><img src="https://i.postimg.cc/RVjfM18D/Media-230515-183502.gif" width="100" /></a>
+  <a href="https://www.facebook.com/profile.php?id=61556196058001" target="_blank" rel="CliffVincent"><img src="https://i.postimg.cc/RVjfM18D/Media-230515-183502.gif" width="100" /></a>
 
 ## 🔴🟡🟢
-## *━❮CREDITS TO❯━𒁍● 『DAVID RAJ』*
+## *━❮CREDITS TO❯━𒁍● 『NISAN』*
 ![SjcKH.gif](https://s13.gifyu.com/images/SjcKH.gif)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
